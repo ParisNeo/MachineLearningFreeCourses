@@ -1,4 +1,4 @@
-# Machine LearningFree Courses
+# Machine Learning Free Courses
 ## Introduction
 In order to help peopleembrace the full power of machine learning. I decided to make opensource courses on some popular machine learning problems.
 
